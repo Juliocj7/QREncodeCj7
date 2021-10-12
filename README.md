@@ -22,14 +22,13 @@
 
 </details>
 
-## UrlEncodeCj7 Linux :
-![Screenshot_20211003-174517_Termux](https://user-images.githubusercontent.com/81049859/135772531-3676a9c5-6ddd-4bbe-924e-800b2bc4d0f3.png)
+## Menú Principal :
 
-## UrlEncodeCj7 Online :
-![Screenshot_20211005-082847_Chrome](https://user-images.githubusercontent.com/81049859/136023059-79b99ce5-4761-470f-8f59-86779bc54caf.png)
+## Encode QR :
 
-## UrlEncodeCj7 :
-* **Codifica y Decodifica** URI (o fragmentos de la misma) usando código porciento de una manera rápida y sencilla.
+## QREncodeCj7 :
+* **Codifica y Decodifica** código QR de una manera rápida y sencilla.
+* **Guarda** como una imagen o como un archivo ansii.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -43,13 +42,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` apt update && apt upgrade -y `
 
-* ` git clone https://github.com/Juliocj7/UrlEncodeCj7 `
+* ` git clone https://github.com/Juliocj7/QREncodeCj7 `
 
-* ` cd UrlEncodeCj7 `
+* ` cd QREncodeCj7 `
 
 * ` chmod +x * `
 
-* ` ./UrlEncodeCj7 `
+* ` ./QREncodeCj7 `
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
