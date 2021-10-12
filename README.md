@@ -30,7 +30,7 @@
 
 ## QREncodeCj7 :
 * **Codifica y Decodifica** código QR de una manera rápida y sencilla.
-* **Guarda** como una imagen o como un archivo ansii.
+* **Guarda** el resultado como una imagen o como un archivo ansii.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
