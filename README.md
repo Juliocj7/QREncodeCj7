@@ -23,10 +23,12 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20211012-111524_Termux](https://user-images.githubusercontent.com/81049859/136986836-eb9d1206-9515-44c2-835c-2c78b61651bc.png)
+![Screenshot_20220523-135435_Termux](https://user-images.githubusercontent.com/81049859/169881446-958060be-83b5-4012-95d7-5327d1552d22.png)
+
 
 ## Encode QR :
-![Screenshot_20211012-111943_Termux](https://user-images.githubusercontent.com/81049859/136986862-fa25b3a0-080a-45ed-a6c1-f91fb0ccaafe.png)
+![Screenshot_20220523-135557_Termux](https://user-images.githubusercontent.com/81049859/169881469-0c04104b-a3c7-40b3-bc7c-9faf9829561c.png)
+
 
 ## QREncodeCj7 :
 * **Codifica y Decodifica** código QR de una manera rápida y sencilla.
