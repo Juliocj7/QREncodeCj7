@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -25,10 +24,8 @@
 ## Menú Principal :
 ![Screenshot_20220523-135435_Termux](https://user-images.githubusercontent.com/81049859/169881446-958060be-83b5-4012-95d7-5327d1552d22.png)
 
-
 ## Encode QR :
 ![Screenshot_20220523-135557_Termux](https://user-images.githubusercontent.com/81049859/169881469-0c04104b-a3c7-40b3-bc7c-9faf9829561c.png)
-
 
 ## QREncodeCj7 :
 * **Codifica y Decodifica** código QR de una manera rápida y sencilla.
@@ -44,8 +41,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/QREncodeCj7 `
 
 * ` cd QREncodeCj7 `
