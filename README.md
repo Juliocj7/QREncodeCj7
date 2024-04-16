@@ -45,12 +45,12 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328312](https://github.com/Juliocj7/QREncodeCj7/assets/81049859/d0fa641a-fd2f-4534-91f6-455fbc69255d)
 
-## Encode QR :
+## Ejemplo :
 ![1000328313](https://github.com/Juliocj7/QREncodeCj7/assets/81049859/820ee074-6846-47fa-9373-aedb6e18a549)
 
 ## QREncodeCj7 :
-* **Codifica y Decodifica** código QR de una manera rápida y sencilla.
-* **Guarda** el resultado como una imagen o como un archivo ansii.
+* Codifica y decodifica código QR de una manera rápida y sencilla.
+* Guarda el resultado como una imagen o como un archivo ansii.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -58,17 +58,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/QREncodeCj7 `
-
-* ` cd QREncodeCj7 `
-
-* ` chmod +x * `
-
-* ` ./QREncodeCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/QREncodeCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd QREncodeCj7 && chmod +x * && ./QREncodeCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
